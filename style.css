@@ -1,0 +1,198 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    display: flex;
+    margin: 25px 100px;
+}
+.header-half{
+    margin: 50px;
+    width: 45%;
+}
+.header-half h2{
+    display: inline;
+    font-size: 43px;
+    line-height: 50px;
+}
+
+.only-color{
+    padding: 3px;
+    background: royalblue;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.coloring{
+    color: deepskyblue;
+}
+.header-half p{
+    margin: 30px 0;
+    font-size: 20px;
+    line-height: 30px;
+}
+.header-half a{
+    text-decoration: none;
+    color: white;
+    background: royalblue;
+    padding: 12px 25px;
+    border-radius: 10px;
+}
+.header-half img{
+    width: 60%;
+    border: 30px solid lightblue;
+    border-radius: 50%;
+    margin-left: 100px;
+}
+
+.mission{
+    margin: 0 100px;
+    height: 500px;
+}
+.mission h2{
+    text-align: center;
+    font-size: 43px;
+    line-height: 50px;
+}
+.quarter{
+    float: left;
+    width: 26%;
+    margin: 13px;
+    padding: 25px;
+    border-radius: 25px;
+}
+.card-1{
+    background-color: lightskyblue;
+}
+.card-2{
+    background-color: bisque;
+}
+.card-3{
+    background-color: aquamarine;
+}
+.quarter img{
+    width: 50%;
+}
+.quarter h4{
+    font-size: 25px;
+}
+.quarter p{
+    font-size: 20px;
+}
+
+
+.blockchain{
+    margin: 0 100px;
+    height: 350px;
+}
+.blockchain-half{
+    margin: 10px;
+    width: 45%;
+    float: left;
+}
+.blockchain-half img{
+    width: 95%;
+    border-radius: 15px;
+}
+
+.blockchain-half h2{
+    display: inline;
+    font-size: 43px;
+    line-height: 50px;
+}
+
+.coloring{
+    color: deepskyblue;
+}
+.blockchain-half p{
+    margin: 30px 0;
+    font-size: 20px;
+    line-height: 30px;
+}
+.blockchain-half a{
+    text-decoration: none;
+    color: white;
+    background: royalblue;
+    padding: 12px 25px;
+    border-radius: 10px;
+}
+
+.android{
+    margin: 50px 100px;
+    height: 350px;
+}
+.android-half{
+    margin: 10px;
+    width: 45%;
+    float: left;
+}
+.android-half img{
+    width: 95%;
+    border-radius: 15px;
+    margin-left: 10px;
+}
+
+.android-half h2{
+    display: inline;
+    font-size: 43px;
+    line-height: 50px;
+}
+
+.coloring{
+    color: deepskyblue;
+}
+.android-half p{
+    margin: 30px 0;
+    font-size: 20px;
+    line-height: 30px;
+}
+.android-half a{
+    text-decoration: none;
+    color: white;
+    background: royalblue;
+    padding: 12px 25px;
+    border-radius: 10px;
+}
+
+.about-us{
+    margin: 0 100px;
+    padding-top: 5px;
+    height: 320px;
+    border-radius: 25px;
+    background-color: paleturquoise;
+}
+.about-us h2{
+    text-align: center;
+    font-size: 43px;
+}
+.about-us p{
+    font-size: 18px;
+}
+.coloring-2{
+    color: royalblue;
+}
+.partner{
+    float: left;
+    width: 15%;
+    margin-left: 17px;
+}
+.partner img{
+    width: 60%;
+    border: 15px solid royalblue;
+    border-radius: 50%;
+}
+
+.footer{
+    text-align: center;
+    height: 150px;
+    color: #fff;
+    background: #000;
+}
+.footer h2{
+    font-size: 30px;
+    padding-top: 25px;
+}
+.footer p{
+    font-size: 20px;
+}
